@@ -1,0 +1,11 @@
+# 补丁资源包体积巨大（第一季 ~253 MB / 第二季 ~664 MB），
+# 超出 GitHub 单文件 100 MB 硬限制，因此不纳入 Git 版本控制。
+# 请从本仓库的 Releases 页面下载 zip 压缩包。
+*.zip
+*.ttarch2
+
+# 临时文件
+*.tmp
+*.log
+Thumbs.db
+desktop.ini
